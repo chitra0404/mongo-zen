@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6585470548d46e118cbbbe37"
+  },
+  "userId": 1,
+  "topicId": 1,
+  "attended": true
+},
+{
+  "_id": {
+    "$oid": "6585470548d46e118cbbbe38"
+  },
+  "userId": 2,
+  "topicId": 1,
+  "attended": true
+},
+{
+  "_id": {
+    "$oid": "6585470548d46e118cbbbe39"
+  },
+  "userId": 3,
+  "topicId": 1,
+  "attended": true
+},
+{
+  "_id": {
+    "$oid": "6585470548d46e118cbbbe3a"
+  },
+  "userId": 4,
+  "topicId": 1,
+  "attended": true
+},
+{
+  "_id": {
+    "$oid": "6585470548d46e118cbbbe3b"
+  },
+  "userId": 5,
+  "topicId": 1,
+  "attended": true
+},
+{
+  "_id": {
+    "$oid": "658577d748d46e118cbbbe61"
+  },
+  "userId": 2,
+  "topicId": 2,
+  "attended": false
+},
+{
+  "_id": {
+    "$oid": "658596b948d46e118cbbbe67"
+  },
+  "userId": 4,
+  "topicId": 3,
+  "attended": true
+},
+{
+  "_id": {
+    "$oid": "6585978748d46e118cbbbe69"
+  },
+  "userId": 2,
+  "topicId": 5,
+  "attended": true
+}]

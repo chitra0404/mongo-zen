@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "658545d148d46e118cbbbe31"
+  },
+  "userId": 1,
+  "driveDate": "2023-10-04T00:00:00.000Z",
+  "company": "Google"
+},
+{
+  "_id": {
+    "$oid": "658545d148d46e118cbbbe32"
+  },
+  "userId": 2,
+  "driveDate": "2023-10-11T00:00:00.000Z",
+  "company": "IBM"
+},
+{
+  "_id": {
+    "$oid": "658545d148d46e118cbbbe33"
+  },
+  "userId": 3,
+  "driveDate": "2023-10-20T00:00:00.000Z",
+  "company": "Wipro"
+},
+{
+  "_id": {
+    "$oid": "658545d148d46e118cbbbe34"
+  },
+  "userId": 3,
+  "driveDate": "2023-10-25T00:00:00.000Z",
+  "company": "Zoho"
+},
+{
+  "_id": {
+    "$oid": "658545d148d46e118cbbbe35"
+  },
+  "userId": 4,
+  "driveDate": "2023-10-27T00:00:00.000Z",
+  "company": "Amazon"
+}]

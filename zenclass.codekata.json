@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "658544f748d46e118cbbbe2b"
+  },
+  "userId": 1,
+  "problemSolved": 130
+},
+{
+  "_id": {
+    "$oid": "658544f748d46e118cbbbe2c"
+  },
+  "userId": 2,
+  "problemSolved": 11
+},
+{
+  "_id": {
+    "$oid": "658544f748d46e118cbbbe2d"
+  },
+  "userId": 3,
+  "problemSolved": 16
+},
+{
+  "_id": {
+    "$oid": "658544f748d46e118cbbbe2e"
+  },
+  "userId": 4,
+  "problemSolved": 31
+},
+{
+  "_id": {
+    "$oid": "658544f748d46e118cbbbe2f"
+  },
+  "userId": 5,
+  "problemSolved": 33
+}]
